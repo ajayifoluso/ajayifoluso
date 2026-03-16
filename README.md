@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @ajayifoluso
+👋 Hi, I'm Foluso Ajayi
 
-- 🔐 Senior DevSecOps | Cloud & Application Security
+📊 Data Scientist & Analytics Professional | AI & Machine Learning Enthusiast
+🔐 Senior DevSecOps Engineer | Cloud & Application Security
+⚙️ Building secure, intelligent systems at the intersection of data and security
 
-- ⚙️ Focused on Terraform, CI/CD, Kubernetes, IaC Security
+🔭 Currently working on: Machine Learning models and secure CI/CD pipelines
+🌱 Currently learning: Advanced AI/ML techniques and MLOps security
+💡 Passionate about: Turning complex data into actionable insight while keeping systems safe
 
-- 📫 Reach me: ajayi.foluso@gmail.com
+🛠️ Tech Stack:
+- Languages: Python | SQL | Bash | YAML
+- Data & ML: Pandas | Scikit-learn | TensorFlow | Jupyter
+- DevSecOps: Terraform | Kubernetes | Docker | GitHub Actions
+- Cloud: AWS | Azure | GCP
 
-<!---
-ajayifoluso/ajayifoluso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me: ajayi.foluso@gmail.com
+🔗 Connect: LinkedIn
